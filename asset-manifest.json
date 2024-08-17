@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ListadoUsuarios/static/css/main.fafc8537.css",
+    "main.js": "/ListadoUsuarios/static/js/main.93efeef9.js",
+    "index.html": "/ListadoUsuarios/index.html",
+    "main.fafc8537.css.map": "/ListadoUsuarios/static/css/main.fafc8537.css.map",
+    "main.93efeef9.js.map": "/ListadoUsuarios/static/js/main.93efeef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafc8537.css",
+    "static/js/main.93efeef9.js"
+  ]
+}
